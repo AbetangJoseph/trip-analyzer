@@ -2,6 +2,7 @@ import React, { useState, useEffect } from "react";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faInfoCircle } from "@fortawesome/free-solid-svg-icons";
 import { Link } from "react-router-dom";
+import Trips from "../../Pages/Trips";
 
 export default function Table() {
   const [trips, setTrips] = useState([]);
@@ -34,7 +35,11 @@ export default function Table() {
               <tr key={id}>
                 <th scope="row">
                   {" "}
-                  <Link to={`/trip/${element.tripID}`} className="nav-link">
+                  <Link
+                    to={`/trip/${element.tripID}`}
+                    trips={element}
+                    className="nav-link"
+                  >
                     <FontAwesomeIcon
                       icon={faInfoCircle}
                       style={{

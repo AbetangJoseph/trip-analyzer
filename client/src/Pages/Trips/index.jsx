@@ -1,6 +1,6 @@
 import React from "react";
 
-export default function Trips() {
+export default function Trips({ trips }) {
   return (
     <div style={{ margin: "15px" }}>
       <h3
@@ -13,6 +13,12 @@ export default function Trips() {
       >
         Trips
       </h3>
+
+      <div>
+        <li>trips.user.name</li>
+        <li>trips.user.gender</li>
+        <li>trips.user.phone</li>
+      </div>
     </div>
   );
 }
