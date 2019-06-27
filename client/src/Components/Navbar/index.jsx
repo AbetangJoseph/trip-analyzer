@@ -53,11 +53,6 @@ export default function Navbar() {
                 Drivers
               </Link>
             </li>
-            <li className="nav-item">
-              <Link to="/trips" className="nav-link">
-                Trips
-              </Link>
-            </li>
           </ul>
         </div>
       </nav>

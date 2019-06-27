@@ -16,7 +16,6 @@ export default function Table() {
     };
     fetchUsers();
   }, []);
-  // console.log(trips);
 
   return (
     <div className="container" style={{ height: "30rem", overflowY: "scroll" }}>
@@ -31,13 +30,11 @@ export default function Table() {
         </thead>
         <tbody>
           {trips.map((element, id) => {
-            console.log(element);
-
             return (
               <tr key={id}>
                 <th scope="row">
                   {" "}
-                  <Link to="/trips" className="nav-link">
+                  <Link to={`/trip/${element.tripID}`} className="nav-link">
                     <FontAwesomeIcon
                       icon={faInfoCircle}
                       style={{
