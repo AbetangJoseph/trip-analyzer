@@ -1,6 +1,7 @@
 import React from "react";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faInfoCircle, faCarSide } from "@fortawesome/free-solid-svg-icons";
+import { Link } from "react-router-dom";
 
 export default function Table() {
   return (
@@ -33,14 +34,16 @@ export default function Table() {
           <tr>
             <th scope="row">
               {" "}
-              <FontAwesomeIcon
-                icon={faInfoCircle}
-                style={{
-                  color: "#2ECC71",
-                  fontSize: "25px",
-                  cursor: "pointer"
-                }}
-              />
+              <Link to="/trips" className="nav-link">
+                <FontAwesomeIcon
+                  icon={faInfoCircle}
+                  style={{
+                    color: "#2ECC71",
+                    fontSize: "25px",
+                    cursor: "pointer"
+                  }}
+                />
+              </Link>
             </th>
             <td>Abetang</td>
             <td>Josph</td>
