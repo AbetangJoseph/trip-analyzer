@@ -1,57 +1,61 @@
-import React from "react";
+import React, { useState, useEffect } from "react";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import { faInfoCircle, faCarSide } from "@fortawesome/free-solid-svg-icons";
+import { faInfoCircle } from "@fortawesome/free-solid-svg-icons";
 import { Link } from "react-router-dom";
 
 export default function Table() {
+  const [trips, setTrips] = useState([]);
+
+  useEffect(() => {
+    const fetchUsers = async () => {
+      const statsCall = await fetch("http://localhost:3000/api/trips");
+      let response = await statsCall.json();
+      setTrips(() => {
+        return response.data;
+      });
+    };
+    fetchUsers();
+  }, []);
+  // console.log(trips);
+
   return (
-    <>
-      <h5
-        style={{
-          textAlign: "center",
-          margin: "auto",
-          padding: "30px"
-        }}
-        className="text-muted"
-      >
-        All Trips Summary{" "}
-        <FontAwesomeIcon
-          icon={faCarSide}
-          style={{ color: "gray", fontSize: "25px" }}
-        />
-      </h5>
+    <div className="container" style={{ height: "30rem", overflowY: "scroll" }}>
       <table className="table table-hover">
         <thead style={{ backgroundColor: "#2ECC71", color: "white" }}>
           <tr>
             <th scope="col" />
             <th scope="col">user</th>
-            <th scope="col">gender</th>
-            <th scope="col">user email</th>
+            <th scope="col">email</th>
             <th scope="col">driver</th>
           </tr>
         </thead>
         <tbody>
-          <tr>
-            <th scope="row">
-              {" "}
-              <Link to="/trips" className="nav-link">
-                <FontAwesomeIcon
-                  icon={faInfoCircle}
-                  style={{
-                    color: "#2ECC71",
-                    fontSize: "25px",
-                    cursor: "pointer"
-                  }}
-                />
-              </Link>
-            </th>
-            <td>Abetang</td>
-            <td>Josph</td>
-            <td>joeabetang@gmaill.com</td>
-            <td>@Aubery Drake</td>
-          </tr>
+          {trips.map((element, id) => {
+            console.log(element);
+
+            return (
+              <tr key={id}>
+                <th scope="row">
+                  {" "}
+                  <Link to="/trips" className="nav-link">
+                    <FontAwesomeIcon
+                      icon={faInfoCircle}
+                      style={{
+                        color: "#2ECC71",
+                        fontSize: "25px",
+                        cursor: "pointer"
+                      }}
+                    />
+                  </Link>
+                </th>
+                <td>{element.user.name}</td>
+                <td>{element.user.gender}</td>
+                <td>{element.user.phone} </td>
+              </tr>
+            );
+          })}
         </tbody>
       </table>
-    </>
+    </div>
   );
 }

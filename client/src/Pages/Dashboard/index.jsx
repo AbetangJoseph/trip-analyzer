@@ -2,7 +2,7 @@
 import React, { useState, useEffect } from "react";
 import Card from "../../Components/Card";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import { faChartLine } from "@fortawesome/free-solid-svg-icons";
+import { faChartLine, faCarSide } from "@fortawesome/free-solid-svg-icons";
 import Chart from "../../Components/Chart";
 import Table from "../../Components/Table";
 
@@ -108,9 +108,22 @@ export default function Dashboard() {
           }
         />
       </div>
-      <div className="container">
-        <Table />
-      </div>
+      <h5
+        style={{
+          textAlign: "center",
+          margin: "auto",
+          padding: "30px"
+        }}
+        className="text-muted"
+      >
+        All Trips Summary{" "}
+        <FontAwesomeIcon
+          icon={faCarSide}
+          style={{ color: "gray", fontSize: "25px" }}
+        />
+      </h5>
+
+      <Table />
     </div>
   );
 }
