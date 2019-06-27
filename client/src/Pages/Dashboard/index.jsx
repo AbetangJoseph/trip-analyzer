@@ -4,6 +4,7 @@ import Card from "../../Components/Card";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faChartLine } from "@fortawesome/free-solid-svg-icons";
 import Chart from "../../Components/Chart";
+import Table from "../../Components/Table";
 
 export default function Dashboard() {
   const [chartState, setChartSate] = useState({});
@@ -59,7 +60,11 @@ export default function Dashboard() {
 
       <div
         className="row"
-        style={{ display: "flex", justifyContent: "center" }}
+        style={{
+          display: "flex",
+          justifyContent: "center",
+          marginBottom: "50px"
+        }}
       >
         <Card
           cardTitle="Gender Analysis"
@@ -102,6 +107,9 @@ export default function Dashboard() {
             />
           }
         />
+      </div>
+      <div className="container">
+        <Table />
       </div>
     </div>
   );
