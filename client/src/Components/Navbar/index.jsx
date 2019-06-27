@@ -7,7 +7,7 @@ export default function Navbar() {
   return (
     <>
       <nav
-        className="navbar navbar-expand-lg navbar-dark"
+        className="navbar navbar-expand-lg navbar-dark fixed-top"
         style={{
           backgroundColor: "#2ECC71",
           boxShadow: "10px 1px 10px 1px #ddd"
@@ -18,6 +18,16 @@ export default function Navbar() {
             icon={faCar}
             style={{ color: "white", fontSize: "38px" }}
           />
+          <span
+            style={{
+              color: "white",
+              fontSize: "28px",
+              marginLeft: "10px",
+              fontFamily: "LatoSansSerif"
+            }}
+          >
+            DecaDrive
+          </span>
         </Link>
         <button
           className="navbar-toggler"

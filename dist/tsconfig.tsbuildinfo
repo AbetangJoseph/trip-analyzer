@@ -2097,14 +2097,210 @@
         "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/util.d.ts",
         "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/users/abetang/desktop/trip-analyzer/src/app.ts": [
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/express-serve-static-core/index.d.ts"
-      ],
       "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/globals.d.ts": [
         "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/util.d.ts",
         "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/util.d.ts"
       ],
       "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/assert.d.ts": [
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/util.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/async_hooks.d.ts": [
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/util.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/buffer.d.ts": [
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/util.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/child_process.d.ts": [
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/events.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/stream.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/net.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/util.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/cluster.d.ts": [
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/child_process.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/events.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/net.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/util.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/console.d.ts": [
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/util.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/constants.d.ts": [
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/util.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/crypto.d.ts": [
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/stream.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/util.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/dgram.d.ts": [
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/net.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/dns.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/events.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/util.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/dns.d.ts": [
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/util.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/domain.d.ts": [
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/events.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/util.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/events.d.ts": [
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/util.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/fs.d.ts": [
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/stream.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/events.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/url.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/util.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/http.d.ts": [
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/events.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/net.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/stream.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/url.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/util.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/http2.d.ts": [
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/events.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/fs.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/net.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/stream.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/tls.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/url.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/http.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/util.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/https.d.ts": [
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/tls.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/events.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/http.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/url.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/util.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/inspector.d.ts": [
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/events.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/util.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/module.d.ts": [
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/util.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/net.d.ts": [
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/stream.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/events.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/dns.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/util.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/os.d.ts": [
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/util.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/path.d.ts": [
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/util.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/perf_hooks.d.ts": [
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/async_hooks.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/util.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/process.d.ts": [
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/util.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/punycode.d.ts": [
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/util.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/querystring.d.ts": [
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/util.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/readline.d.ts": [
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/events.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/stream.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/util.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/repl.d.ts": [
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/readline.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/vm.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/util.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/stream.d.ts": [
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/events.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/util.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/string_decoder.d.ts": [
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/util.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/timers.d.ts": [
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/util.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/tls.d.ts": [
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/crypto.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/dns.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/net.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/stream.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/util.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/trace_events.d.ts": [
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/util.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/tty.d.ts": [
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/net.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/util.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/url.d.ts": [
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/querystring.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/util.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/util.d.ts": [
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/v8.d.ts": [
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/util.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/vm.d.ts": [
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/util.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/worker_threads.d.ts": [
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/events.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/stream.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/util.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/zlib.d.ts": [
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/stream.d.ts",
         "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/util.d.ts",
         "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/util.d.ts"
       ],
@@ -2151,11 +2347,47 @@
         "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/zlib.d.ts",
         "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/util.d.ts"
       ],
+      "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/util.d.ts": [
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/util.d.ts"
+      ],
+      "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/globals.d.ts": [
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/globals.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/util.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
       "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/index.d.ts": [
         "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/base.d.ts",
         "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/util.d.ts",
         "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/globals.d.ts",
         "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/util.d.ts"
+      ],
+      "/users/abetang/desktop/trip-analyzer/node_modules/@types/range-parser/index.d.ts": [
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/util.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/abetang/desktop/trip-analyzer/node_modules/@types/express-serve-static-core/index.d.ts": [
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/http.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/events.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/range-parser/index.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/index.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/util.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/abetang/desktop/trip-analyzer/node_modules/@types/mime/index.d.ts": [
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/util.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/abetang/desktop/trip-analyzer/node_modules/@types/serve-static/index.d.ts": [
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/express-serve-static-core/index.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/mime/index.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/util.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/abetang/desktop/trip-analyzer/node_modules/@types/connect/index.d.ts": [
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/http.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/index.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/util.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/util.d.ts"
       ],
       "/users/abetang/desktop/trip-analyzer/node_modules/@types/body-parser/index.d.ts": [
         "/users/abetang/desktop/trip-analyzer/node_modules/@types/connect/index.d.ts",
@@ -2171,16 +2403,7 @@
         "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/util.d.ts",
         "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/users/abetang/desktop/trip-analyzer/src/routes/index.ts": [
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/express-serve-static-core/index.d.ts"
-      ],
-      "/users/abetang/desktop/trip-analyzer/node_modules/@types/express-graphql/index.d.ts": [
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/express/index.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/index.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/util.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/abetang/desktop/trip-analyzer/node_modules/@types/morgan/index.d.ts": [
+      "/users/abetang/desktop/trip-analyzer/node_modules/@types/cors/index.d.ts": [
         "/users/abetang/desktop/trip-analyzer/node_modules/@types/express/index.d.ts",
         "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/util.d.ts",
         "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/util.d.ts"
@@ -2190,471 +2413,419 @@
         "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/util.d.ts",
         "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/users/abetang/desktop/trip-analyzer/node_modules/@types/cors/index.d.ts": [
+      "/users/abetang/desktop/trip-analyzer/node_modules/@types/morgan/index.d.ts": [
         "/users/abetang/desktop/trip-analyzer/node_modules/@types/express/index.d.ts",
         "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/util.d.ts",
         "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/users/abetang/desktop/trip-analyzer/node_modules/@types/connect/index.d.ts": [
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/http.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/index.d.ts",
+      "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/tsutils/maybe.d.ts": [
         "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/util.d.ts",
         "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/users/abetang/desktop/trip-analyzer/node_modules/@types/express-serve-static-core/index.d.ts": [
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/http.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/events.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/range-parser/index.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/index.d.ts",
+      "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/language/source.d.ts": [
         "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/util.d.ts",
         "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/users/abetang/desktop/trip-analyzer/node_modules/@types/serve-static/index.d.ts": [
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/express-serve-static-core/index.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/mime/index.d.ts",
+      "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/jsutils/promiseorvalue.d.ts": [
         "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/util.d.ts",
         "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/async_hooks.d.ts": [
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/util.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/perf_hooks.d.ts": [
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/async_hooks.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/util.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/buffer.d.ts": [
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/util.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/child_process.d.ts": [
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/events.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/stream.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/net.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/util.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/cluster.d.ts": [
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/child_process.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/events.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/net.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/util.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/console.d.ts": [
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/util.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/constants.d.ts": [
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/util.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/crypto.d.ts": [
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/stream.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/util.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/tls.d.ts": [
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/crypto.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/dns.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/net.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/stream.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/util.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/https.d.ts": [
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/tls.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/events.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/http.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/url.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/util.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/http2.d.ts": [
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/events.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/fs.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/net.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/stream.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/tls.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/url.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/http.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/util.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/dgram.d.ts": [
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/net.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/dns.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/events.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/util.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/dns.d.ts": [
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/util.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/net.d.ts": [
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/stream.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/events.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/dns.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/util.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/tty.d.ts": [
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/net.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/util.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/http.d.ts": [
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/events.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/net.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/stream.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/url.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/util.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/domain.d.ts": [
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/events.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/util.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/events.d.ts": [
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/util.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/worker_threads.d.ts": [
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/events.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/stream.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/util.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/stream.d.ts": [
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/events.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/util.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/zlib.d.ts": [
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/stream.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/util.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/readline.d.ts": [
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/events.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/stream.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/util.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/repl.d.ts": [
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/readline.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/vm.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/util.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/fs.d.ts": [
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/stream.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/events.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/url.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/util.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/inspector.d.ts": [
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/events.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/util.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/module.d.ts": [
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/util.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/os.d.ts": [
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/util.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/path.d.ts": [
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/util.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/process.d.ts": [
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/util.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/punycode.d.ts": [
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/util.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/querystring.d.ts": [
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/util.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/url.d.ts": [
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/querystring.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/util.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/string_decoder.d.ts": [
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/util.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/timers.d.ts": [
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/util.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/trace_events.d.ts": [
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/util.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/util.d.ts": [
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/abetang/desktop/trip-analyzer/node_modules/@types/normalize-package-data/index.d.ts": [
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/util.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/abetang/desktop/trip-analyzer/src/schema.ts": [
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/index.d.ts"
-      ],
-      "/users/abetang/desktop/trip-analyzer/src/types/index.ts": [
-        "/users/abetang/desktop/trip-analyzer/src/types/driver.ts",
-        "/users/abetang/desktop/trip-analyzer/src/types/vehicle.ts",
-        "/users/abetang/desktop/trip-analyzer/src/types/location.ts",
-        "/users/abetang/desktop/trip-analyzer/src/types/user.ts",
-        "/users/abetang/desktop/trip-analyzer/src/types/trip.ts"
-      ],
-      "/users/abetang/desktop/trip-analyzer/src/types/trip.ts": [
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/index.d.ts"
-      ],
-      "/users/abetang/desktop/trip-analyzer/src/types/user.ts": [
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/index.d.ts"
-      ],
-      "/users/abetang/desktop/trip-analyzer/src/types/location.ts": [
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/index.d.ts"
-      ],
-      "/users/abetang/desktop/trip-analyzer/src/types/driver.ts": [
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/index.d.ts"
-      ],
-      "/users/abetang/desktop/trip-analyzer/src/types/vehicle.ts": [
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/index.d.ts"
-      ],
-      "/users/abetang/desktop/trip-analyzer/node_modules/date-fns/typings.d.ts": [
-        "/users/abetang/desktop/trip-analyzer/node_modules/date-fns/typings.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/util.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/index.d.ts": [
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/graphql.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/type/index.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/language/index.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/execution/index.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/subscription/index.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/validation/index.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/error/index.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/utilities/index.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/util.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/utilities/index.d.ts": [
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/utilities/introspectionquery.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/utilities/getoperationast.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/utilities/getoperationroottype.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/utilities/introspectionfromschema.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/utilities/buildclientschema.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/utilities/buildastschema.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/utilities/extendschema.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/utilities/lexicographicsortschema.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/utilities/schemaprinter.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/utilities/typefromast.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/utilities/valuefromast.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/utilities/valuefromastuntyped.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/utilities/astfromvalue.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/utilities/typeinfo.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/utilities/coercevalue.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/utilities/isvalidjsvalue.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/utilities/isvalidliteralvalue.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/utilities/concatast.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/utilities/separateoperations.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/utilities/typecomparators.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/utilities/assertvalidname.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/utilities/findbreakingchanges.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/utilities/finddeprecatedusages.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/util.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/utilities/finddeprecatedusages.d.ts": [
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/type/schema.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/language/ast.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/error/graphqlerror.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/util.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/utilities/findbreakingchanges.d.ts": [
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/type/definition.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/type/directives.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/type/schema.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/language/directivelocation.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/util.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/utilities/assertvalidname.d.ts": [
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/error/graphqlerror.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/language/ast.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/util.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/utilities/typecomparators.d.ts": [
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/type/definition.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/type/schema.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/util.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/utilities/separateoperations.d.ts": [
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/language/ast.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/util.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/utilities/concatast.d.ts": [
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/language/ast.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/util.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/utilities/isvalidliteralvalue.d.ts": [
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/error/graphqlerror.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/language/ast.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/type/definition.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/util.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/utilities/isvalidjsvalue.d.ts": [
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/type/definition.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/util.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/utilities/coercevalue.d.ts": [
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/error/graphqlerror.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/language/ast.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/type/definition.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/util.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/utilities/astfromvalue.d.ts": [
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/tsutils/maybe.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/language/ast.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/type/definition.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/util.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/utilities/valuefromastuntyped.d.ts": [
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/tsutils/maybe.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/language/ast.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/util.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/utilities/valuefromast.d.ts": [
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/tsutils/maybe.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/type/definition.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/language/ast.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/util.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/utilities/typefromast.d.ts": [
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/language/ast.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/type/definition.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/type/schema.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/util.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/utilities/schemaprinter.d.ts": [
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/type/schema.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/type/definition.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/util.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/utilities/lexicographicsortschema.d.ts": [
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/type/schema.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/util.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/utilities/extendschema.d.ts": [
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/language/ast.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/type/schema.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/util.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/utilities/buildastschema.d.ts": [
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/tsutils/maybe.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/language/ast.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/type/definition.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/type/directives.d.ts",
+      "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/language/location.d.ts": [
         "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/language/source.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/type/schema.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/language/parser.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/language/blockstring.d.ts",
         "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/util.d.ts",
         "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/language/blockstring.d.ts": [
+      "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/language/kinds.d.ts": [
         "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/util.d.ts",
         "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/utilities/buildclientschema.d.ts": [
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/utilities/introspectionquery.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/type/schema.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/util.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/utilities/introspectionfromschema.d.ts": [
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/type/schema.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/utilities/introspectionquery.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/util.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/utilities/getoperationroottype.d.ts": [
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/type/schema.d.ts",
+      "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/language/parser.d.ts": [
         "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/language/ast.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/language/source.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/language/lexer.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/util.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/language/printer.d.ts": [
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/language/ast.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/util.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/language/directivelocation.d.ts": [
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/util.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/type/directives.d.ts": [
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/tsutils/maybe.d.ts",
         "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/type/definition.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/util.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/utilities/getoperationast.d.ts": [
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/tsutils/maybe.d.ts",
         "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/language/ast.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/util.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/utilities/introspectionquery.d.ts": [
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/tsutils/maybe.d.ts",
         "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/language/directivelocation.d.ts",
         "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/util.d.ts",
         "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/validation/index.d.ts": [
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/validation/validate.d.ts",
+      "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/type/schema.d.ts": [
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/tsutils/maybe.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/type/definition.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/language/ast.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/type/directives.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/util.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/utilities/typeinfo.d.ts": [
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/tsutils/maybe.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/type/schema.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/type/definition.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/type/directives.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/language/ast.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/util.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/language/visitor.d.ts": [
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/tsutils/maybe.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/language/ast.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/utilities/typeinfo.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/util.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/language/predicates.d.ts": [
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/language/ast.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/util.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/language/index.d.ts": [
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/language/location.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/language/kinds.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/language/lexer.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/language/parser.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/language/printer.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/language/source.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/language/visitor.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/language/ast.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/language/predicates.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/language/directivelocation.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/util.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/error/graphqlerror.d.ts": [
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/tsutils/maybe.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/language/index.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/language/ast.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/language/source.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/language/location.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/util.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/error/syntaxerror.d.ts": [
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/language/source.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/error/graphqlerror.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/util.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/error/locatederror.d.ts": [
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/error/graphqlerror.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/language/ast.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/util.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/error/printerror.d.ts": [
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/error/graphqlerror.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/util.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/error/formaterror.d.ts": [
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/error/graphqlerror.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/language/location.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/util.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/error/index.d.ts": [
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/error/graphqlerror.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/error/syntaxerror.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/error/locatederror.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/error/printerror.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/error/formaterror.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/util.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/language/lexer.d.ts": [
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/language/ast.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/language/source.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/error/index.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/util.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/language/ast.d.ts": [
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/language/source.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/language/lexer.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/util.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/type/definition.d.ts": [
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/tsutils/maybe.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/jsutils/promiseorvalue.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/language/ast.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/type/schema.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/util.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/execution/execute.d.ts": [
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/tsutils/maybe.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/error/index.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/type/schema.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/type/definition.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/language/ast.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/jsutils/promiseorvalue.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/util.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/graphql.d.ts": [
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/tsutils/maybe.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/language/source.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/type/definition.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/type/schema.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/execution/execute.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/util.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/type/scalars.d.ts": [
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/type/definition.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/util.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/type/introspection.d.ts": [
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/type/definition.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/util.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/type/validate.d.ts": [
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/type/schema.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/error/graphqlerror.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/util.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/type/index.d.ts": [
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/type/schema.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/type/definition.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/type/directives.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/type/scalars.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/type/introspection.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/type/validate.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/util.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/execution/values.d.ts": [
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/tsutils/maybe.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/error/graphqlerror.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/type/definition.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/type/directives.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/type/schema.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/language/ast.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/util.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/execution/index.d.ts": [
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/execution/execute.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/execution/values.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/util.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/subscription/subscribe.d.ts": [
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/tsutils/maybe.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/type/schema.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/language/ast.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/type/definition.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/execution/execute.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/util.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/subscription/index.d.ts": [
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/subscription/subscribe.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/util.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/validation/validationcontext.d.ts": [
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/tsutils/maybe.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/error/index.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/language/ast.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/type/schema.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/type/definition.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/type/directives.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/utilities/typeinfo.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/language/visitor.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/util.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/validation/validate.d.ts": [
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/error/index.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/language/ast.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/type/schema.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/utilities/typeinfo.d.ts",
         "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/validation/validationcontext.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/validation/specifiedrules.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/validation/rules/fieldsoncorrecttype.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/validation/rules/fragmentsoncompositetypes.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/validation/rules/knownargumentnames.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/validation/rules/knowndirectives.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/validation/rules/knownfragmentnames.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/validation/rules/knowntypenames.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/validation/rules/loneanonymousoperation.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/validation/rules/nofragmentcycles.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/validation/rules/noundefinedvariables.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/validation/rules/nounusedfragments.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/validation/rules/nounusedvariables.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/validation/rules/overlappingfieldscanbemerged.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/validation/rules/possiblefragmentspreads.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/validation/rules/providedrequiredarguments.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/validation/rules/scalarleafs.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/validation/rules/singlefieldsubscriptions.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/validation/rules/uniqueargumentnames.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/validation/rules/uniquedirectivesperlocation.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/validation/rules/uniquefragmentnames.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/validation/rules/uniqueinputfieldnames.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/validation/rules/uniqueoperationnames.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/validation/rules/uniquevariablenames.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/validation/rules/valuesofcorrecttype.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/validation/rules/variablesareinputtypes.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/validation/rules/variablesinallowedposition.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/util.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/validation/rules/executabledefinitions.d.ts": [
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/validation/validationcontext.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/language/visitor.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/util.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/validation/rules/uniqueoperationnames.d.ts": [
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/validation/validationcontext.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/language/visitor.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/util.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/validation/rules/loneanonymousoperation.d.ts": [
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/validation/validationcontext.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/language/visitor.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/util.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/validation/rules/singlefieldsubscriptions.d.ts": [
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/tsutils/maybe.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/validation/validationcontext.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/language/visitor.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/util.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/validation/rules/knowntypenames.d.ts": [
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/validation/validationcontext.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/language/visitor.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/util.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/validation/rules/fragmentsoncompositetypes.d.ts": [
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/validation/validationcontext.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/language/visitor.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/util.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/validation/rules/variablesareinputtypes.d.ts": [
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/validation/validationcontext.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/language/visitor.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/util.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/validation/rules/scalarleafs.d.ts": [
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/validation/validationcontext.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/language/visitor.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/util.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/validation/rules/fieldsoncorrecttype.d.ts": [
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/validation/validationcontext.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/language/visitor.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/util.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/validation/rules/uniquefragmentnames.d.ts": [
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/validation/validationcontext.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/language/visitor.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/util.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/validation/rules/knownfragmentnames.d.ts": [
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/validation/validationcontext.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/language/visitor.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/util.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/validation/rules/nounusedfragments.d.ts": [
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/validation/validationcontext.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/language/visitor.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/util.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/validation/rules/possiblefragmentspreads.d.ts": [
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/validation/validationcontext.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/language/visitor.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/util.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/validation/rules/nofragmentcycles.d.ts": [
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/validation/validationcontext.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/language/visitor.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/util.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/validation/rules/uniquevariablenames.d.ts": [
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/validation/validationcontext.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/language/visitor.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/util.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/validation/rules/noundefinedvariables.d.ts": [
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/tsutils/maybe.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/validation/validationcontext.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/language/visitor.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/util.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/validation/rules/nounusedvariables.d.ts": [
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/tsutils/maybe.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/validation/validationcontext.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/language/visitor.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/util.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/validation/rules/knowndirectives.d.ts": [
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/validation/validationcontext.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/language/visitor.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/util.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/validation/rules/uniquedirectivesperlocation.d.ts": [
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/validation/validationcontext.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/language/visitor.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/util.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/validation/rules/knownargumentnames.d.ts": [
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/validation/validationcontext.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/language/visitor.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/util.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/validation/rules/uniqueargumentnames.d.ts": [
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/validation/validationcontext.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/language/visitor.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/util.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/validation/rules/valuesofcorrecttype.d.ts": [
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/validation/validationcontext.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/language/visitor.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/util.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/validation/rules/providedrequiredarguments.d.ts": [
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/validation/validationcontext.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/language/visitor.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/util.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/validation/rules/variablesinallowedposition.d.ts": [
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/validation/validationcontext.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/language/visitor.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/util.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/validation/rules/overlappingfieldscanbemerged.d.ts": [
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/validation/validationcontext.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/language/visitor.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/util.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/validation/rules/uniqueinputfieldnames.d.ts": [
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/validation/validationcontext.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/language/visitor.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/util.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/validation/rules/loneschemadefinition.d.ts": [
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/validation/validationcontext.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/language/visitor.d.ts",
         "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/util.d.ts",
         "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/util.d.ts"
       ],
@@ -2690,438 +2861,267 @@
         "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/util.d.ts",
         "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/validation/rules/loneschemadefinition.d.ts": [
+      "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/validation/index.d.ts": [
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/validation/validate.d.ts",
         "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/validation/validationcontext.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/language/visitor.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/validation/specifiedrules.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/validation/rules/fieldsoncorrecttype.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/validation/rules/fragmentsoncompositetypes.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/validation/rules/knownargumentnames.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/validation/rules/knowndirectives.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/validation/rules/knownfragmentnames.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/validation/rules/knowntypenames.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/validation/rules/loneanonymousoperation.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/validation/rules/nofragmentcycles.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/validation/rules/noundefinedvariables.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/validation/rules/nounusedfragments.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/validation/rules/nounusedvariables.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/validation/rules/overlappingfieldscanbemerged.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/validation/rules/possiblefragmentspreads.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/validation/rules/providedrequiredarguments.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/validation/rules/scalarleafs.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/validation/rules/singlefieldsubscriptions.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/validation/rules/uniqueargumentnames.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/validation/rules/uniquedirectivesperlocation.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/validation/rules/uniquefragmentnames.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/validation/rules/uniqueinputfieldnames.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/validation/rules/uniqueoperationnames.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/validation/rules/uniquevariablenames.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/validation/rules/valuesofcorrecttype.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/validation/rules/variablesareinputtypes.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/validation/rules/variablesinallowedposition.d.ts",
         "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/util.d.ts",
         "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/validation/rules/uniqueinputfieldnames.d.ts": [
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/validation/validationcontext.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/language/visitor.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/util.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/validation/rules/overlappingfieldscanbemerged.d.ts": [
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/validation/validationcontext.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/language/visitor.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/util.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/validation/rules/variablesinallowedposition.d.ts": [
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/validation/validationcontext.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/language/visitor.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/util.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/validation/rules/providedrequiredarguments.d.ts": [
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/validation/validationcontext.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/language/visitor.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/util.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/validation/rules/valuesofcorrecttype.d.ts": [
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/validation/validationcontext.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/language/visitor.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/util.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/validation/rules/uniqueargumentnames.d.ts": [
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/validation/validationcontext.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/language/visitor.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/util.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/validation/rules/knownargumentnames.d.ts": [
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/validation/validationcontext.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/language/visitor.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/util.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/validation/rules/uniquedirectivesperlocation.d.ts": [
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/validation/validationcontext.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/language/visitor.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/util.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/validation/rules/knowndirectives.d.ts": [
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/validation/validationcontext.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/language/visitor.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/util.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/validation/rules/nounusedvariables.d.ts": [
+      "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/utilities/introspectionquery.d.ts": [
         "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/tsutils/maybe.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/validation/validationcontext.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/language/visitor.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/language/directivelocation.d.ts",
         "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/util.d.ts",
         "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/validation/rules/noundefinedvariables.d.ts": [
+      "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/utilities/getoperationast.d.ts": [
         "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/tsutils/maybe.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/validation/validationcontext.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/language/visitor.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/util.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/validation/rules/uniquevariablenames.d.ts": [
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/validation/validationcontext.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/language/visitor.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/util.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/validation/rules/nofragmentcycles.d.ts": [
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/validation/validationcontext.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/language/visitor.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/util.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/validation/rules/possiblefragmentspreads.d.ts": [
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/validation/validationcontext.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/language/visitor.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/util.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/validation/rules/nounusedfragments.d.ts": [
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/validation/validationcontext.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/language/visitor.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/util.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/validation/rules/knownfragmentnames.d.ts": [
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/validation/validationcontext.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/language/visitor.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/util.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/validation/rules/uniquefragmentnames.d.ts": [
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/validation/validationcontext.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/language/visitor.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/util.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/validation/rules/fieldsoncorrecttype.d.ts": [
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/validation/validationcontext.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/language/visitor.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/util.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/validation/rules/scalarleafs.d.ts": [
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/validation/validationcontext.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/language/visitor.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/util.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/validation/rules/variablesareinputtypes.d.ts": [
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/validation/validationcontext.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/language/visitor.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/util.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/validation/rules/fragmentsoncompositetypes.d.ts": [
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/validation/validationcontext.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/language/visitor.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/util.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/validation/rules/knowntypenames.d.ts": [
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/validation/validationcontext.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/language/visitor.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/util.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/validation/rules/singlefieldsubscriptions.d.ts": [
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/tsutils/maybe.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/validation/validationcontext.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/language/visitor.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/util.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/validation/rules/loneanonymousoperation.d.ts": [
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/validation/validationcontext.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/language/visitor.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/util.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/validation/rules/uniqueoperationnames.d.ts": [
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/validation/validationcontext.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/language/visitor.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/util.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/validation/rules/executabledefinitions.d.ts": [
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/validation/validationcontext.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/language/visitor.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/util.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/validation/validate.d.ts": [
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/error/index.d.ts",
         "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/language/ast.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/type/schema.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/utilities/typeinfo.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/validation/validationcontext.d.ts",
         "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/util.d.ts",
         "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/validation/validationcontext.d.ts": [
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/tsutils/maybe.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/error/index.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/language/ast.d.ts",
+      "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/utilities/getoperationroottype.d.ts": [
         "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/type/schema.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/language/ast.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/type/definition.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/util.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/utilities/introspectionfromschema.d.ts": [
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/type/schema.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/utilities/introspectionquery.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/util.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/utilities/buildclientschema.d.ts": [
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/utilities/introspectionquery.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/type/schema.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/util.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/language/blockstring.d.ts": [
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/util.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/utilities/buildastschema.d.ts": [
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/tsutils/maybe.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/language/ast.d.ts",
         "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/type/definition.d.ts",
         "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/type/directives.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/utilities/typeinfo.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/language/visitor.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/util.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/subscription/index.d.ts": [
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/subscription/subscribe.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/util.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/subscription/subscribe.d.ts": [
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/tsutils/maybe.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/type/schema.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/language/ast.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/type/definition.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/execution/execute.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/util.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/execution/index.d.ts": [
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/execution/execute.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/execution/values.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/util.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/execution/values.d.ts": [
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/tsutils/maybe.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/error/graphqlerror.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/type/definition.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/type/directives.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/type/schema.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/language/ast.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/util.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/type/index.d.ts": [
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/type/schema.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/type/definition.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/type/directives.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/type/scalars.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/type/introspection.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/type/validate.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/util.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/type/validate.d.ts": [
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/type/schema.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/error/graphqlerror.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/util.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/type/introspection.d.ts": [
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/type/definition.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/util.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/type/scalars.d.ts": [
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/type/definition.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/util.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/graphql.d.ts": [
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/tsutils/maybe.d.ts",
         "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/language/source.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/type/definition.d.ts",
         "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/type/schema.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/execution/execute.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/util.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/execution/execute.d.ts": [
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/tsutils/maybe.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/error/index.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/type/schema.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/type/definition.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/language/ast.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/jsutils/promiseorvalue.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/util.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/type/definition.d.ts": [
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/tsutils/maybe.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/jsutils/promiseorvalue.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/language/ast.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/type/schema.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/util.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/utilities/typeinfo.d.ts": [
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/tsutils/maybe.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/type/schema.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/type/definition.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/type/directives.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/language/ast.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/util.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/language/visitor.d.ts": [
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/tsutils/maybe.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/language/ast.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/utilities/typeinfo.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/util.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/language/index.d.ts": [
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/language/location.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/language/kinds.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/language/lexer.d.ts",
         "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/language/parser.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/language/printer.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/language/source.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/language/visitor.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/language/blockstring.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/util.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/utilities/extendschema.d.ts": [
         "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/language/ast.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/language/predicates.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/language/directivelocation.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/type/schema.d.ts",
         "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/util.d.ts",
         "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/error/graphqlerror.d.ts": [
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/tsutils/maybe.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/language/index.d.ts",
+      "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/utilities/lexicographicsortschema.d.ts": [
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/type/schema.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/util.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/utilities/schemaprinter.d.ts": [
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/type/schema.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/type/definition.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/util.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/utilities/typefromast.d.ts": [
         "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/language/ast.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/language/source.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/language/location.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/type/definition.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/type/schema.d.ts",
         "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/util.d.ts",
         "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/error/index.d.ts": [
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/error/graphqlerror.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/error/syntaxerror.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/error/locatederror.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/error/printerror.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/error/formaterror.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/util.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/language/lexer.d.ts": [
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/language/ast.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/language/source.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/error/index.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/util.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/language/ast.d.ts": [
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/language/source.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/language/lexer.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/util.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/error/locatederror.d.ts": [
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/error/graphqlerror.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/language/ast.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/util.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/language/predicates.d.ts": [
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/language/ast.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/util.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/type/schema.d.ts": [
+      "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/utilities/valuefromast.d.ts": [
         "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/tsutils/maybe.d.ts",
         "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/type/definition.d.ts",
         "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/language/ast.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/util.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/utilities/valuefromastuntyped.d.ts": [
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/tsutils/maybe.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/language/ast.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/util.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/utilities/astfromvalue.d.ts": [
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/tsutils/maybe.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/language/ast.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/type/definition.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/util.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/utilities/coercevalue.d.ts": [
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/error/graphqlerror.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/language/ast.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/type/definition.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/util.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/utilities/isvalidjsvalue.d.ts": [
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/type/definition.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/util.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/utilities/isvalidliteralvalue.d.ts": [
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/error/graphqlerror.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/language/ast.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/type/definition.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/util.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/utilities/concatast.d.ts": [
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/language/ast.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/util.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/utilities/separateoperations.d.ts": [
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/language/ast.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/util.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/utilities/typecomparators.d.ts": [
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/type/definition.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/type/schema.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/util.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/utilities/assertvalidname.d.ts": [
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/error/graphqlerror.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/language/ast.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/util.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/utilities/findbreakingchanges.d.ts": [
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/type/definition.d.ts",
         "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/type/directives.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/util.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/type/directives.d.ts": [
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/tsutils/maybe.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/type/definition.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/language/ast.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/type/schema.d.ts",
         "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/language/directivelocation.d.ts",
         "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/util.d.ts",
         "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/language/printer.d.ts": [
+      "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/utilities/finddeprecatedusages.d.ts": [
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/type/schema.d.ts",
         "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/language/ast.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/util.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/language/parser.d.ts": [
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/language/ast.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/language/source.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/language/lexer.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/util.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/error/formaterror.d.ts": [
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/error/graphqlerror.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/language/location.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/util.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/error/printerror.d.ts": [
         "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/error/graphqlerror.d.ts",
         "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/util.d.ts",
         "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/error/syntaxerror.d.ts": [
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/language/source.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/error/graphqlerror.d.ts",
+      "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/utilities/index.d.ts": [
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/utilities/introspectionquery.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/utilities/getoperationast.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/utilities/getoperationroottype.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/utilities/introspectionfromschema.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/utilities/buildclientschema.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/utilities/buildastschema.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/utilities/extendschema.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/utilities/lexicographicsortschema.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/utilities/schemaprinter.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/utilities/typefromast.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/utilities/valuefromast.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/utilities/valuefromastuntyped.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/utilities/astfromvalue.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/utilities/typeinfo.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/utilities/coercevalue.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/utilities/isvalidjsvalue.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/utilities/isvalidliteralvalue.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/utilities/concatast.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/utilities/separateoperations.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/utilities/typecomparators.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/utilities/assertvalidname.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/utilities/findbreakingchanges.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/utilities/finddeprecatedusages.d.ts",
         "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/util.d.ts",
         "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/language/directivelocation.d.ts": [
+      "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/index.d.ts": [
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/graphql.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/type/index.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/language/index.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/execution/index.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/subscription/index.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/validation/index.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/error/index.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/utilities/index.d.ts",
         "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/util.d.ts",
         "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/language/kinds.d.ts": [
+      "/users/abetang/desktop/trip-analyzer/node_modules/@types/express-graphql/index.d.ts": [
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/express/index.d.ts",
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/index.d.ts",
         "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/util.d.ts",
         "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/language/location.d.ts": [
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/language/source.d.ts",
+      "/users/abetang/desktop/trip-analyzer/src/routes/index.ts": [
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/express-serve-static-core/index.d.ts"
+      ],
+      "/users/abetang/desktop/trip-analyzer/node_modules/date-fns/typings.d.ts": [
+        "/users/abetang/desktop/trip-analyzer/node_modules/date-fns/typings.d.ts",
         "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/util.d.ts",
         "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/jsutils/promiseorvalue.d.ts": [
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/util.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/util.d.ts"
+      "/users/abetang/desktop/trip-analyzer/src/types/vehicle.ts": [
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/index.d.ts"
       ],
-      "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/language/source.d.ts": [
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/util.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/util.d.ts"
+      "/users/abetang/desktop/trip-analyzer/src/types/driver.ts": [
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/index.d.ts"
       ],
-      "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/tsutils/maybe.d.ts": [
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/util.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/util.d.ts"
+      "/users/abetang/desktop/trip-analyzer/src/types/location.ts": [
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/index.d.ts"
       ],
-      "/users/abetang/desktop/trip-analyzer/node_modules/@types/mime/index.d.ts": [
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/util.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/util.d.ts"
+      "/users/abetang/desktop/trip-analyzer/src/types/user.ts": [
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/index.d.ts"
       ],
-      "/users/abetang/desktop/trip-analyzer/node_modules/@types/range-parser/index.d.ts": [
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/util.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/util.d.ts"
+      "/users/abetang/desktop/trip-analyzer/src/types/trip.ts": [
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/index.d.ts"
       ],
-      "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/globals.d.ts": [
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/globals.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/util.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/util.d.ts"
+      "/users/abetang/desktop/trip-analyzer/src/types/index.ts": [
+        "/users/abetang/desktop/trip-analyzer/src/types/driver.ts",
+        "/users/abetang/desktop/trip-analyzer/src/types/vehicle.ts",
+        "/users/abetang/desktop/trip-analyzer/src/types/location.ts",
+        "/users/abetang/desktop/trip-analyzer/src/types/user.ts",
+        "/users/abetang/desktop/trip-analyzer/src/types/trip.ts"
       ],
-      "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/util.d.ts": [
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/util.d.ts"
+      "/users/abetang/desktop/trip-analyzer/src/schema.ts": [
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/index.d.ts"
       ],
-      "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/vm.d.ts": [
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/util.d.ts",
-        "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/util.d.ts"
+      "/users/abetang/desktop/trip-analyzer/src/app.ts": [
+        "/users/abetang/desktop/trip-analyzer/node_modules/@types/express-serve-static-core/index.d.ts"
       ],
-      "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/v8.d.ts": [
+      "/users/abetang/desktop/trip-analyzer/node_modules/@types/normalize-package-data/index.d.ts": [
         "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/util.d.ts",
         "/users/abetang/desktop/trip-analyzer/node_modules/@types/node/ts3.2/util.d.ts"
       ]
