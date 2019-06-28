@@ -6,6 +6,8 @@ import Trips from "../../Pages/Trips";
 
 export default function Table() {
   const [trips, setTrips] = useState([]);
+  const [drivers, setDrivers] = useState({});
+  // const [driversFilterd, setDriversFilterd] = useState({});
 
   useEffect(() => {
     const fetchUsers = async () => {
@@ -18,6 +20,27 @@ export default function Table() {
     fetchUsers();
   }, []);
 
+  useEffect(() => {
+    const fetchDrivers = async () => {
+      const driverCall = await fetch("api/drivers");
+      let drivers = await driverCall.json();
+      setDrivers(() => {
+        return drivers.data;
+      });
+    };
+
+    fetchDrivers();
+  }, []);
+
+  const driverObj = {};
+
+  for (let driver in drivers) {
+    driverObj[drivers[driver].driverID] = {
+      name: drivers[driver].name,
+      gender: drivers[driver].gender
+    };
+  }
+
   return (
     <div className="container" style={{ height: "30rem", overflowY: "scroll" }}>
       <table className="table table-hover">
@@ -25,21 +48,22 @@ export default function Table() {
           <tr>
             <th scope="col" />
             <th scope="col">user</th>
-            <th scope="col">email</th>
+            <th scope="col">gender</th>
+            <th scope="col">billedAmount</th>
             <th scope="col">driver</th>
           </tr>
         </thead>
         <tbody>
-          {trips.map((trip, id) => {
+          {trips.map(trip => {
+            const driverName = driverObj[trip.driverID]
+              ? driverObj[trip.driverID].name
+              : null;
+
             return (
-              <tr key={id}>
+              <tr key={trip.tripID}>
                 <th scope="row">
                   {" "}
-                  <Link
-                    to={`/trip/${trip.tripID}`}
-                    trips={trip}
-                    className="nav-link"
-                  >
+                  <Link to={`/trip/${trip.tripID}`} className="nav-link">
                     <FontAwesomeIcon
                       icon={faInfoCircle}
                       style={{
@@ -52,7 +76,8 @@ export default function Table() {
                 </th>
                 <td>{trip.user.name}</td>
                 <td>{trip.user.gender}</td>
-                <td>{trip.user.phone} </td>
+                <td>{`N ${trip.billedAmount}`}</td>
+                <td>{driverName}</td>
               </tr>
             );
           })}

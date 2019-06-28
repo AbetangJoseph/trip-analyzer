@@ -59,7 +59,6 @@ export default function Dashboard() {
       </h5>
 
       <div
-        cardWidth="col-sm-3"
         className="row"
         style={{
           display: "flex",
@@ -92,6 +91,7 @@ export default function Dashboard() {
           }
         />
         <Card
+          cardWidth="col-sm-3"
           cardTitle="Total Bill Analysis"
           cardBody={
             <Chart
