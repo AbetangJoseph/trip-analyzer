@@ -25,6 +25,8 @@ export default function Drivers() {
     setDriver(driver);
   };
 
+  const { address, agent, DOB, email, gender, name, phone } = driver;
+
   return (
     <div style={{ margin: "15px" }}>
       <div
@@ -54,9 +56,30 @@ export default function Drivers() {
 
         <div className="col-8">
           <Card
-            cardTitle={driver.name}
-            cardBody={driver.email}
-            cardWidth="col-sm-10"
+            cardWidth="col-sm-12"
+            cardTitle={name}
+            cardBody={
+              <div>
+                <p>
+                  <b>Gender:</b> {gender}
+                </p>
+                <p>
+                  <b>Email:</b> {email}
+                </p>
+                <p>
+                  <b>Phone:</b> {phone}
+                </p>
+                <p>
+                  <b>DOB:</b> {DOB}
+                </p>
+                <p>
+                  <b>Agent:</b> {agent}
+                </p>
+                <p>
+                  <b>Address:</b> {address}
+                </p>
+              </div>
+            }
           />
         </div>
       </div>
