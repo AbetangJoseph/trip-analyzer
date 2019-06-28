@@ -2,7 +2,7 @@ import React from "react";
 
 export default function Listgroup({ drivers, click }) {
   return (
-    <ul className="list-group col-5">
+    <ul className="list-group">
       {drivers.map((driver, index) => {
         return (
           <li

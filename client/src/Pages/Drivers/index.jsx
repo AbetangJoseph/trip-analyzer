@@ -47,9 +47,14 @@ export default function Drivers() {
         </h5>
       </div>
 
-      <div className="row" style={{ display: "flex" }}>
-        <Card cardTitle={driver.name} cardBody={driver.email} />
-        <Listgroup drivers={drivers} click={changeContent} />
+      <div className="row">
+        <div class="col-4" style={{ padding: "0px" }}>
+          <Listgroup drivers={drivers} click={changeContent} />
+        </div>
+
+        <div className="col-8">
+          <Card cardTitle={driver.name} cardBody={driver.email} />
+        </div>
       </div>
     </div>
   );
