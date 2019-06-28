@@ -53,7 +53,11 @@ export default function Drivers() {
         </div>
 
         <div className="col-8">
-          <Card cardTitle={driver.name} cardBody={driver.email} />
+          <Card
+            cardTitle={driver.name}
+            cardBody={driver.email}
+            cardWidth="col-sm-10"
+          />
         </div>
       </div>
     </div>
