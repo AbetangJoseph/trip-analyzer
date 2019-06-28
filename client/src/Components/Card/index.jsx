@@ -1,9 +1,9 @@
 import React from "react";
 
-export default function Card({ cardTitle, cardBody }) {
+export default function Card({ cardTitle, cardBody, cardWidth }) {
   return (
     <>
-      <div className="col-sm-3">
+      <div className={cardWidth}>
         <div className="card">
           <div className="card-body">
             <h5 className="card-title text-muted">{cardTitle}</h5>
