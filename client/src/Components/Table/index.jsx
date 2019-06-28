@@ -30,14 +30,14 @@ export default function Table() {
           </tr>
         </thead>
         <tbody>
-          {trips.map((element, id) => {
+          {trips.map((trip, id) => {
             return (
               <tr key={id}>
                 <th scope="row">
                   {" "}
                   <Link
-                    to={`/trip/${element.tripID}`}
-                    trips={element}
+                    to={`/trip/${trip.tripID}`}
+                    trips={trip}
                     className="nav-link"
                   >
                     <FontAwesomeIcon
@@ -50,9 +50,9 @@ export default function Table() {
                     />
                   </Link>
                 </th>
-                <td>{element.user.name}</td>
-                <td>{element.user.gender}</td>
-                <td>{element.user.phone} </td>
+                <td>{trip.user.name}</td>
+                <td>{trip.user.gender}</td>
+                <td>{trip.user.phone} </td>
               </tr>
             );
           })}
