@@ -1,5 +1,6 @@
 /* eslint-disable react-hooks/exhaustive-deps */
 import React, { useEffect, useState } from "react";
+import Card from "../../Components/Card";
 
 export default function Trips(props) {
   const [trip, setTrip] = useState({});
@@ -28,21 +29,71 @@ export default function Trips(props) {
           padding: "30px"
         }}
       >
-        Trips
+        Trip
       </h3>
 
-      <div>
-        <li>User: {trip.user ? trip.user.name : null}</li>
-        <li>Billed Amount: {trip.billedAmount}</li>
-        <li>Trip Date: {trip.created}</li>
-        <li>isCash? :{trip.isCash ? "True" : "Talse"}</li>
-        <li>Email: {trip.user ? trip.user.email : null}</li>
-        <li>Phone: {trip.user ? trip.user.phone : null}</li>
-        <li>{trip.user ? trip.user.company : null}</li>
-        <li>Pickup: {trip.user ? trip.pickup.address : null}</li>
-        <li>Destination: {trip.user ? trip.destination.address : null}</li>
-        <li>Trip Id: {trip.user ? trip.tripID : null}</li>
-        <li>Driver Id: {trip.user ? trip.driverID : null}</li>
+      <div />
+
+      <div
+        className="row"
+        style={{
+          display: "flex",
+          justifyContent: "center",
+          marginBottom: "50px"
+        }}
+      >
+        <Card
+          cardTitle="Trip info"
+          cardBody={
+            <div>
+              <li>
+                <b>User: </b>
+                {trip.user ? trip.user.name : null}
+              </li>
+              <li>
+                <b>Billed Amount: </b>
+                {trip.billedAmount}
+              </li>
+              <li>
+                <b>Trip Date: </b>
+                {trip.created}
+              </li>
+              <li>
+                <b>Cash?: </b>
+                {trip.isCash ? "Yes" : "No"}
+              </li>
+              <li>
+                <b>Email: </b>
+                {trip.user ? trip.user.email : null}
+              </li>
+              <li>
+                <b>Phone: </b>
+                {trip.user ? trip.user.phone : null}
+              </li>
+              <li>
+                <b>Company: </b>
+                {trip.user ? trip.user.company : null}
+              </li>
+              <li>
+                <b>Pickup: </b>
+                {trip.user ? trip.pickup.address : null}
+              </li>
+              <li>
+                <b>Destination: </b>
+                {trip.user ? trip.destination.address : null}
+              </li>
+              <li>
+                <b>Trip Id: </b>
+                {trip.user ? trip.tripID : null}
+              </li>
+              <li>
+                <b>Driver Id: </b>
+                {trip.user ? trip.driverID : null}
+              </li>
+            </div>
+          }
+          cardWidth="col-sm-8"
+        />
       </div>
     </div>
   );
