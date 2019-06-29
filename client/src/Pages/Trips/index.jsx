@@ -1,6 +1,7 @@
 /* eslint-disable react-hooks/exhaustive-deps */
 import React, { useEffect, useState } from "react";
 import Card from "../../Components/Card";
+import ListItem from "../../Components/ListItem";
 
 export default function Trips(props) {
   const [trip, setTrip] = useState({});
@@ -43,54 +44,54 @@ export default function Trips(props) {
         }}
       >
         <Card
-          cardTitle="Trip info"
+          cardTitle="Trip Detail"
           cardBody={
-            <div>
-              <li>
-                <b>User: </b>
-                {trip.user ? trip.user.name : null}
-              </li>
-              <li>
-                <b>Billed Amount: </b>
-                {trip.billedAmount}
-              </li>
-              <li>
-                <b>Trip Date: </b>
-                {trip.created}
-              </li>
-              <li>
-                <b>Cash?: </b>
-                {trip.isCash ? "Yes" : "No"}
-              </li>
-              <li>
-                <b>Email: </b>
-                {trip.user ? trip.user.email : null}
-              </li>
-              <li>
-                <b>Phone: </b>
-                {trip.user ? trip.user.phone : null}
-              </li>
-              <li>
-                <b>Company: </b>
-                {trip.user ? trip.user.company : null}
-              </li>
-              <li>
-                <b>Pickup: </b>
-                {trip.user ? trip.pickup.address : null}
-              </li>
-              <li>
-                <b>Destination: </b>
-                {trip.user ? trip.destination.address : null}
-              </li>
-              <li>
-                <b>Trip Id: </b>
-                {trip.user ? trip.tripID : null}
-              </li>
-              <li>
-                <b>Driver Id: </b>
-                {trip.user ? trip.driverID : null}
-              </li>
-            </div>
+            <ul className="list-group list-group-flush">
+              <ListItem
+                title="user "
+                listBody={trip.user ? trip.user.name : null}
+              />
+              <ListItem
+                title="billed Amount "
+                listBody={trip.user ? `N ${trip.billedAmount}` : null}
+              />
+              <ListItem
+                title="trip Date "
+                listBody={trip.user ? trip.created : null}
+              />
+              <ListItem
+                title="paid cash? "
+                listBody={trip.isCash ? "Yes" : "No"}
+              />
+              <ListItem
+                title="email "
+                listBody={trip.user ? trip.user.email : null}
+              />
+              <ListItem
+                title="phone"
+                listBody={trip.user ? trip.user.phone : null}
+              />
+              <ListItem
+                title="company "
+                listBody={trip.user ? trip.user.company : null}
+              />
+              <ListItem
+                title="pickup "
+                listBody={trip.user ? trip.pickup.address : null}
+              />
+              <ListItem
+                title="destination "
+                listBody={trip.user ? trip.destination.address : null}
+              />{" "}
+              <ListItem
+                title="trip Id "
+                listBody={trip.user ? trip.tripID : null}
+              />{" "}
+              <ListItem
+                title="driver Id "
+                listBody={trip.user ? trip.driverID : null}
+              />
+            </ul>
           }
           cardWidth="col-sm-8"
         />
