@@ -7,7 +7,9 @@ export default function Card({ cardTitle, cardBody, cardWidth }) {
         <div className="card">
           <div className="card-body">
             <h5 className="card-title text-muted">{cardTitle}</h5>
-            <div className="card-text">{cardBody}</div>
+            <div className="card-text" style={{ listStyleType: "none" }}>
+              {cardBody}
+            </div>
           </div>
         </div>
       </div>
