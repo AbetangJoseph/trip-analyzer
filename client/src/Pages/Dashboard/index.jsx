@@ -33,7 +33,7 @@ export default function Dashboard() {
 
   return (
     <div style={{ margin: "15px" }}>
-      <h3
+      <h4
         style={{
           textAlign: "center",
           margin: "auto",
@@ -42,8 +42,8 @@ export default function Dashboard() {
         }}
       >
         Dashboard
-      </h3>
-      <h5
+      </h4>
+      <h6
         style={{
           textAlign: "center",
           margin: "auto",
@@ -54,9 +54,9 @@ export default function Dashboard() {
         Stats{" "}
         <FontAwesomeIcon
           icon={faChartLine}
-          style={{ color: "gray", fontSize: "35px" }}
+          style={{ color: "gray", fontSize: "20px" }}
         />
-      </h5>
+      </h6>
 
       <div
         className="row"
@@ -111,7 +111,7 @@ export default function Dashboard() {
           }
         />
       </div>
-      <h5
+      <h6
         style={{
           textAlign: "center",
           margin: "auto",
@@ -122,9 +122,9 @@ export default function Dashboard() {
         All Trips Summary{" "}
         <FontAwesomeIcon
           icon={faCarSide}
-          style={{ color: "gray", fontSize: "25px" }}
+          style={{ color: "gray", fontSize: "20px" }}
         />
-      </h5>
+      </h6>
 
       <Table />
     </div>
