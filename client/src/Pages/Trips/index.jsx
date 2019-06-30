@@ -21,6 +21,45 @@ export default function Trips(props) {
     fetchUsers();
   }, []);
 
+  const displayListItem = () => {
+    return (
+      <ul className="list-group list-group-flush">
+        <ListItem title="user " listBody={trip.user ? trip.user.name : null} />
+        <ListItem
+          title="billed Amount "
+          listBody={trip.user ? `N ${trip.billedAmount}` : null}
+        />
+        <ListItem
+          title="trip Date "
+          listBody={trip.user ? trip.created : null}
+        />
+        <ListItem title="paid cash? " listBody={trip.isCash ? "Yes" : "No"} />
+        <ListItem
+          title="email "
+          listBody={trip.user ? trip.user.email : null}
+        />
+        <ListItem title="phone" listBody={trip.user ? trip.user.phone : null} />
+        <ListItem
+          title="company "
+          listBody={trip.user ? trip.user.company : null}
+        />
+        <ListItem
+          title="pickup "
+          listBody={trip.user ? trip.pickup.address : null}
+        />
+        <ListItem
+          title="destination "
+          listBody={trip.user ? trip.destination.address : null}
+        />{" "}
+        <ListItem title="trip Id " listBody={trip.user ? trip.tripID : null} />{" "}
+        <ListItem
+          title="driver Id "
+          listBody={trip.user ? trip.driverID : null}
+        />
+      </ul>
+    );
+  };
+
   return (
     <div style={{ margin: "15px" }}>
       <h4
@@ -50,54 +89,7 @@ export default function Trips(props) {
               Back
             </Link>
           }
-          cardBody={
-            <ul className="list-group list-group-flush">
-              <ListItem
-                title="user "
-                listBody={trip.user ? trip.user.name : null}
-              />
-              <ListItem
-                title="billed Amount "
-                listBody={trip.user ? `N ${trip.billedAmount}` : null}
-              />
-              <ListItem
-                title="trip Date "
-                listBody={trip.user ? trip.created : null}
-              />
-              <ListItem
-                title="paid cash? "
-                listBody={trip.isCash ? "Yes" : "No"}
-              />
-              <ListItem
-                title="email "
-                listBody={trip.user ? trip.user.email : null}
-              />
-              <ListItem
-                title="phone"
-                listBody={trip.user ? trip.user.phone : null}
-              />
-              <ListItem
-                title="company "
-                listBody={trip.user ? trip.user.company : null}
-              />
-              <ListItem
-                title="pickup "
-                listBody={trip.user ? trip.pickup.address : null}
-              />
-              <ListItem
-                title="destination "
-                listBody={trip.user ? trip.destination.address : null}
-              />{" "}
-              <ListItem
-                title="trip Id "
-                listBody={trip.user ? trip.tripID : null}
-              />{" "}
-              <ListItem
-                title="driver Id "
-                listBody={trip.user ? trip.driverID : null}
-              />
-            </ul>
-          }
+          cardBody={displayListItem()}
           cardWidth="col-sm-8"
         />
       </div>
