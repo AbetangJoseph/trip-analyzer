@@ -710,7 +710,7 @@
         "signature": "be76f35e3b2339d468a68d40ffca2c93185cf8f62663c315998d29524abedbad"
       },
       "/users/abetang/desktop/trip-analyzer/src/routes/index.ts": {
-        "version": "3f430bd5fb61c1b71de45957f28cdf331c48cd1d406b07d9d74644973190f32b",
+        "version": "fd190278d51bdae1119c471a8852ab2c0dd9c17e83d7af7fff62dd4ce6b9bb13",
         "signature": "c106970ee4b686b5ebf0964ea4e0d1b2af02bdecd2d5cfeecedeb7bb5b2f404b"
       },
       "/users/abetang/desktop/trip-analyzer/node_modules/date-fns/typings.d.ts": {
@@ -3304,7 +3304,6 @@
       "/users/abetang/desktop/trip-analyzer/node_modules/@types/graphql/index.d.ts",
       "/users/abetang/desktop/trip-analyzer/node_modules/@types/express-graphql/index.d.ts",
       "/users/abetang/desktop/trip-analyzer/src/controllers/index.ts",
-      "/users/abetang/desktop/trip-analyzer/src/routes/index.ts",
       "/users/abetang/desktop/trip-analyzer/node_modules/date-fns/typings.d.ts",
       "/users/abetang/desktop/trip-analyzer/src/types/vehicle.ts",
       "/users/abetang/desktop/trip-analyzer/src/types/driver.ts",
@@ -3314,7 +3313,8 @@
       "/users/abetang/desktop/trip-analyzer/src/types/index.ts",
       "/users/abetang/desktop/trip-analyzer/src/schema.ts",
       "/users/abetang/desktop/trip-analyzer/src/app.ts",
-      "/users/abetang/desktop/trip-analyzer/node_modules/@types/normalize-package-data/index.d.ts"
+      "/users/abetang/desktop/trip-analyzer/node_modules/@types/normalize-package-data/index.d.ts",
+      "/users/abetang/desktop/trip-analyzer/src/routes/index.ts"
     ]
   },
   "version": "3.5.2"
