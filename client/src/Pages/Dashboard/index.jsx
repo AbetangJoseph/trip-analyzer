@@ -11,7 +11,7 @@ export default function Dashboard() {
 
   useEffect(() => {
     const fetchData = async () => {
-      const statsCall = await fetch("http://localhost:3000/api/stats");
+      const statsCall = await fetch("api/stats");
       let response = await statsCall.json();
       response = response.data;
       setChartSate(() => {

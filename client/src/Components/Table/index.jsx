@@ -9,7 +9,7 @@ const Table = ({ history }) => {
 
   useEffect(() => {
     const fetchUsers = async () => {
-      const statsCall = await fetch("http://localhost:3000/api/trips");
+      const statsCall = await fetch("api/trips");
       let response = await statsCall.json();
       setTrips(() => {
         return response.data;
