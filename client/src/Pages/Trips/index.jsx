@@ -2,6 +2,7 @@
 import React, { useEffect, useState } from "react";
 import Card from "../../Components/Card";
 import ListItem from "../../Components/ListItem";
+import { Link } from "react-router-dom";
 
 export default function Trips(props) {
   const [trip, setTrip] = useState({});
@@ -22,7 +23,7 @@ export default function Trips(props) {
 
   return (
     <div style={{ margin: "15px" }}>
-      <h3
+      <h4
         style={{
           textAlign: "center",
           margin: "auto",
@@ -30,8 +31,8 @@ export default function Trips(props) {
           padding: "30px"
         }}
       >
-        Trip
-      </h3>
+        Trip Details
+      </h4>
 
       <div />
 
@@ -44,7 +45,11 @@ export default function Trips(props) {
         }}
       >
         <Card
-          cardTitle="Trip Detail"
+          cardTitle={
+            <Link to="/" style={{ color: "#2ECC71" }}>
+              Back
+            </Link>
+          }
           cardBody={
             <ul className="list-group list-group-flush">
               <ListItem
