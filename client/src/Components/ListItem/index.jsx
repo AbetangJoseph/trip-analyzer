@@ -4,8 +4,12 @@ export default function ListItem({ title, listBody }) {
   return (
     <>
       <li className="list-group-item">
-        {<b className="text-muted">{title} </b>}
-        {listBody}
+        {
+          <span className="text-muted" style={{ fontSize: "13px" }}>
+            {title}{" "}
+          </span>
+        }
+        <span style={{ fontSize: "13px" }}>{listBody}</span>
       </li>
     </>
   );
