@@ -31,7 +31,7 @@ export default function Drivers() {
           padding: "30px"
         }}
       >
-        <h3 style={{ color: "#2ECC71" }}>Drivers</h3>
+        <h4 style={{ color: "#2ECC71" }}>Drivers</h4>
       </div>
 
       <div className="row">
@@ -51,7 +51,7 @@ export default function Drivers() {
               <div>
                 {driverDetails.map((driverInfo, index) => (
                   <p key={index}>
-                    <span className="text-muted" style={{ fontSize: "12px" }}>
+                    <span className="text-muted" style={{ fontSize: "13px" }}>
                       {`${driverInfo.key}:`}
                     </span>{" "}
                     <span style={{ fontSize: "14px" }}>
