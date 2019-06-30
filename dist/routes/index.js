@@ -32,7 +32,7 @@ router.get("/driver/:driverID", (req, res) => {
 });
 router.get("/vehicle/:vehicleID", (req, res) => {
   try {
-    const vehicle = index_1.getDriver(req.params.vehicleID);
+    const vehicle = index_1.getVehicle(req.params.vehicleID);
     res.status(200).json({ data: vehicle });
   } catch (_a) {
     res.status(404).json({ error: "Vehicle not found" });
