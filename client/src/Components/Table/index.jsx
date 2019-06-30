@@ -63,6 +63,7 @@ const Table = ({ history }) => {
                 onClick={() => {
                   history.push(`/trip/${trip.tripID}`);
                 }}
+                style={{ cursor: "pointer" }}
               >
                 <th scope="row">
                   {" "}
