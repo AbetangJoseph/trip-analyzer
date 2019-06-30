@@ -16,12 +16,12 @@ export default function Navbar() {
         <Link to="/" className="nav-link">
           <FontAwesomeIcon
             icon={faCar}
-            style={{ color: "white", fontSize: "38px" }}
+            style={{ color: "white", fontSize: "30px" }}
           />
           <span
             style={{
               color: "white",
-              fontSize: "28px",
+              fontSize: "23px",
               marginLeft: "10px",
               fontFamily: "LatoSansSerif"
             }}
