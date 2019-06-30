@@ -37,3 +37,12 @@
   background-color: #f7f9f9;
   height: 100%;
 }
+
+.active {
+  background-color: #2ecc71 !important;
+  border: none;
+}
+
+li {
+  cursor: pointer;
+}
