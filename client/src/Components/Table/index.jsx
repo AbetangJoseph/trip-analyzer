@@ -1,13 +1,11 @@
 import React, { useState, useEffect } from "react";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faInfoCircle } from "@fortawesome/free-solid-svg-icons";
-import { Link } from "react-router-dom";
-import Trips from "../../Pages/Trips";
+import { Link, withRouter } from "react-router-dom";
 
-export default function Table() {
+const Table = ({ history }) => {
   const [trips, setTrips] = useState([]);
   const [drivers, setDrivers] = useState({});
-  // const [driversFilterd, setDriversFilterd] = useState({});
 
   useEffect(() => {
     const fetchUsers = async () => {
@@ -60,7 +58,12 @@ export default function Table() {
               : null;
 
             return (
-              <tr key={trip.tripID}>
+              <tr
+                key={trip.tripID}
+                onClick={() => {
+                  history.push(`/trip/${trip.tripID}`);
+                }}
+              >
                 <th scope="row">
                   {" "}
                   <Link to={`/trip/${trip.tripID}`} className="nav-link">
@@ -85,4 +88,6 @@ export default function Table() {
       </table>
     </div>
   );
-}
+};
+
+export default withRouter(Table);
