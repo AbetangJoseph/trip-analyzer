@@ -1,6 +1,6 @@
 # Trip-Analyzer
 
-An app built with Reactjs for an xyz commercial transport company with an analytics dashboard to quickly visualize trips data, a drivers' master-detail page to get all info about a particular driver and a trip page showing the detail for a single trip.
+An app built using React Hooks, Bootstrap and Chartjs  an xyz commercial transport company with an analytics dashboard to quickly visualize trips data, a drivers' master-detail page to get all info about a particular driver and a trip page showing the detail for a single trip.
 
 Run the server with
 
