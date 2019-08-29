@@ -1,4 +1,4 @@
-# Exercise React
+# Trip-Analyzer
 
 Run the server with
 
