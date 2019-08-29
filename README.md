@@ -36,8 +36,7 @@ The server part of this system is already designed and exposes a set of REST end
 
 The client has been setup to consume graphql if you chose to use that instead.
 
-## Task
- views
+## views
 - A dashboard with stats and the trips listed in a table.
 - A drivers' master-detail page
 - A trip page showing the detail for a single trip
