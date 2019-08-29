@@ -1,5 +1,7 @@
 # Trip-Analyzer
 
+An app built with Reactjs for an xyz commercial transport company with an analytics dashboard to quickly visualize trips data, a drivers' master-detail page to get all info about a particular driver and a trip page showing the detail for a single trip.
+
 Run the server with
 
 ```bash
@@ -35,9 +37,7 @@ The server part of this system is already designed and exposes a set of REST end
 The client has been setup to consume graphql if you chose to use that instead.
 
 ## Task
-
-Build 3 views
-
+ views
 - A dashboard with stats and the trips listed in a table.
 - A drivers' master-detail page
-- A trip page to show the detail for a single trip
+- A trip page showing the detail for a single trip
