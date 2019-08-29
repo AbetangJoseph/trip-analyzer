@@ -44,7 +44,8 @@ const Table = ({ history }) => {
       <table className="table table-hover">
         <thead style={{ backgroundColor: "#2ECC71", color: "white" }}>
           <tr>
-            <th scope="col" />
+            <th scope="col">view</th>
+            <th scope="col">no</th>
             <th scope="col">user</th>
             <th scope="col">gender</th>
             <th scope="col">billedAmount</th>
@@ -52,7 +53,7 @@ const Table = ({ history }) => {
           </tr>
         </thead>
         <tbody>
-          {trips.map(trip => {
+          {trips.map((trip, index) => {
             const driverName = driverObj[trip.driverID]
               ? driverObj[trip.driverID].name
               : null;
@@ -78,6 +79,7 @@ const Table = ({ history }) => {
                     />
                   </Link>
                 </th>
+                <td>{index + 1}</td>
                 <td>{trip.user.name}</td>
                 <td>{trip.user.gender}</td>
                 <td>{`N ${trip.billedAmount}`}</td>
