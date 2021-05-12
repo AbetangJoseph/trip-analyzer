@@ -11,7 +11,7 @@
     "client:start": "cd client; npm start"
   },
   "dependencies": {
-    "chart.js": "^2.8.0",
+    "chart.js": "^2.9.4",
     "compression": "1.7.4",
     "cors": "2.8.5",
     "date-fns": "1.30.1",
